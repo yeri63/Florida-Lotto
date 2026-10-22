@@ -1,6 +1,9 @@
 # Florida-Lotto
 
+<div align="center">
+  
 ![Screenshot of Florida Lotto](https://github.com/yeri63/Florida-Lotto/blob/master/lotto.png)
+</div>
 
 Use the phone to pick Lotto numbers and lookup past games. Here's the Rules of the Florida Lottery PowerBall Game. These are also shown within the application.
 
