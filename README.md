@@ -1,7 +1,6 @@
 # Florida-Lotto
 
 ![Screenshot of Florida Lotto](https://github.com/yeri63/Florida-Lotto/blob/master/lotto.png)
-
 Use the phone to pick Lotto numbers and lookup past games. Here's the Rules of the Florida Lottery PowerBall Game. These are also shown within the application.
 
 1. Select six numbers from 1 through 53, or mark the QP (Quick Pick) box and let the terminal randomly pick some or all of your numbers.
