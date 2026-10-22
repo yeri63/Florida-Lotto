@@ -1,5 +1,5 @@
 # Florida-Lotto
-Pick Lotto numbers and lookup past games.
+Use the phone to pick Lotto numbers and lookup past games. Here's the Rules of the Florida Lottery PowerBall Game. These are also shown within the application.
 
 1. Select six numbers from 1 through 53, or mark the QP (Quick Pick) box and let the terminal randomly pick some or all of your numbers.
 
@@ -7,14 +7,13 @@ Pick Lotto numbers and lookup past games.
 
 3. To multiply your winnings on non-jackpot prizes, select the XTRA box. XTRA costs $1 more per play. The XTRA box applies to all panels.\n\n";
 
-^ Match ^ Payout ^
-^ 6 of 6 ^ Jackpot ^
+<div align="center">
+  
+Match | Payout 
+:-:      | :-:
+6 of 6 | Jackpot 
+5 of 6 | $5,000
+4 of 6 | $70
+3 of 6 | $5
 
-        echo "\t\t5 of 6\t\t$5,000\n";
-        echo "\t\t4 of 6\t\t   $70\n";
-        echo "\t\t3 of 6\t\t    $5\n\n";
-
-        echo "The XTRA number, from 2 to 5, will be drawn at ";
-        echo "random just before the FLORIDA LOTTO drawing to ";
-        echo "determine how much the non-jackpot cash prizes ";
-        echo "will be increased for that draw
+The XTRA number, from 2 to 5, will be drawn at random just before the FLORIDA LOTTO drawing to determine how much the non-jackpot cash prizes will be increased for that draw.
