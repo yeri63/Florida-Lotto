@@ -18,5 +18,6 @@ Match | Payout
 5 of 6 | $5,000
 4 of 6 | $70
 3 of 6 | $5
+</div>
 
 The XTRA number, from 2 to 5, will be drawn at random just before the FLORIDA LOTTO drawing to determine how much the non-jackpot cash prizes will be increased for that draw.
