@@ -5,7 +5,7 @@ Use the phone to pick Lotto numbers and lookup past games. Here's the Rules of t
 
 2. To play the same numbers for more than one draw, select the number of draws you want to play in the Advance Play section of your playslip.
 
-3. To multiply your winnings on non-jackpot prizes, select the XTRA box. XTRA costs $1 more per play. The XTRA box applies to all panels.\n\n";
+3. To multiply your winnings on non-jackpot prizes, select the XTRA box. XTRA costs $1 more per play. The XTRA box applies to all panels.
 
 <div align="center">
   
