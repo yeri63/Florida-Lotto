@@ -1,4 +1,4 @@
-# Florida-Lotto
+# Florida Lotto
 
 <div align="center">
   
